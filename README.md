@@ -1,5 +1,7 @@
 # Twitter-Sentiment-Analysis
 
+Senti_Dictionary.txt => Dictionary contains sentiment words with scores.
+
 frequency.py & frequency_1.py => Python script to compute the term frequency histogram of the livestream data.
 
 happiest_state_1.py => Returns name of the happiest US state.
